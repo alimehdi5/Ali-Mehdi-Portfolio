@@ -392,6 +392,7 @@ b, strong {
   font-family: 'unicons';
   font-size: 100px;
   line-height: normal;
+  margin: -60px;
 }
 .owl-carousel .owl-nav .owl-prev:before {
   content: '\e833';
@@ -480,7 +481,7 @@ b, strong {
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
-    bottom: 50px;
+    bottom: -10px;
   }
 }
 @media (max-width: 991px) {
